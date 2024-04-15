@@ -1,9 +1,9 @@
 import mysql.connector
 
 dataBase = mysql.connector.connect(
-    host = 'localhost',
-    user= 'root',
-    passwd = 'koda0621'
+    host = 'host',
+    user= 'user',
+    passwd = 'passwrd'
 )
 
 cursorObject = dataBase.cursor()
