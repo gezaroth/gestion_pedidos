@@ -7,7 +7,7 @@ Esta es una aplicación de gestión de pedidos desarrollada con Django y Django 
 - Python 3.x
 - Django
 - Django REST Framework
-- MySQL (u otra base de datos compatible)
+- MySQL
 
 ## Instalación
 
