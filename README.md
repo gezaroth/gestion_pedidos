@@ -13,9 +13,9 @@ Esta es una aplicación de gestión de pedidos desarrollada con Django y Django 
 
 1. Clona este repositorio en tu máquina local:
 
-```bash
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
 
+```bash
+git clone https://github.com/tu_usuario/gestion_pedidos.git
 
 
 Instala las dependencias del proyecto:
@@ -35,6 +35,10 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
+conecta el file mydb.py con los datos de tu bdd en este caso mysql
+
+
 
 Realiza las migraciones de la base de datos:
 
