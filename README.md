@@ -55,10 +55,9 @@ Puedes acceder al panel de administración de Django para gestionar los artícul
 
 Para interactuar con la API REST, puedes utilizar herramientas como Postman o realizar peticiones HTTP desde tu código.
 
+
 Contribuir
 Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Siéntete libre de bifurcar este repositorio y enviar solicitudes de extracción con tus mejoras.
 
-Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Este README proporciona una visión general de cómo instalar, configurar y utilizar la aplicación de gestión de pedidos, así como cómo contribuir al proyecto y su licencia. Puedes personalizarlo según las necesidades específicas de tu proyecto.
+Este README proporciona una visión general de cómo instalar, configurar y utilizar la aplicación de gestión de pedidos, así como cómo contribuir al proyecto. Puedes personalizarlo según las necesidades específicas de tu proyecto.
