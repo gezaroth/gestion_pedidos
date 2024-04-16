@@ -96,7 +96,7 @@ DATABASES = {
         'NAME': 'pedidos',
         'USER': 'root',
         'PASSWORD':'MYSQLPASSWRD',
-        'HOST': '172.17.0.2',
+        'HOST': 'IP DE LA IMAGEN SQL',
         'PORT':'3306'
     }
 }
