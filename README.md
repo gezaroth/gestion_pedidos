@@ -94,7 +94,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pedidos',
-        'USER': 'root',
+        'USER': 'MYSQL_USER',
         'PASSWORD':'MYSQLPASSWRD',
         'HOST': 'IP_CONTENEDOR_MYSQL',
         'PORT':'3306'
